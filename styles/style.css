@@ -179,7 +179,7 @@ a {
   top: 0;
   left: 0;
   background-repeat: no-repeat;
-  background-position: 960px bottom;
+  background-position: 85% bottom;
   background-image: url("../images/hc3.png");
   z-index: -1;
   width: 100%;
@@ -200,7 +200,7 @@ a {
   top: 0;
   left: 0;
   background-repeat: no-repeat;
-  background-position: 960px bottom;
+  background-position: 85% bottom;
   background-image: url("../images/tutorcat.png");
   z-index: -1;
   width: 100%;
